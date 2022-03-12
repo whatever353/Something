@@ -1,5 +1,3 @@
-# Something
-I don't know
+# Calculator
 
-
-What is this? I don't know.
+New to this
