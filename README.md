@@ -1,5 +1,5 @@
-# Something
-I don't know
+# basic calculator
 
+just an attempt on a calculator
 
-What is this? I don't know.
+open the calc.py to use the calculator
