@@ -1,2 +1,2 @@
 # Calculator
-hi
+Open the .py file. 
